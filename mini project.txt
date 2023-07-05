@@ -1,0 +1,26 @@
+// Mini project 
+// Quản lí danh mục và quản lí sản phẩm
+// sử dụng đọc ghi file nhị phân để lưu trữ dữ liệu
+// sử dụng kế thừa
+
+// Menu  chính 
+1. Quản lí danh mục
+2. QUản lí sản phẩm 
+3. Thoát
+// Menu phụ
+- Menu quản lí danh mục
+1. Hiển thị danh sách danh mục
+2. Thêm mới danh mục
+3. Chỉnh sửa thông tin danh mục
+4. Xóa danh mục (trạng thái  true -> false)
+5. Quay lại menu chính 
+- menu quản lí sản phẩm
+1. Hiển thị danh sách sản phẩm
+2. Thêm mới sản phẩm
+3. Chỉnh sửa thông tin sản phẩm
+4. Xóa sản phẩm (xóa luôn)
+5. Tìm kiếm sản phẩm theo tên sp hoặc tên danh mục.
+6. Quay lại menu chính
+ -- 30p đầu {3 chức năng đầu tiên}
+ -- 30p tiếp theo{chức năng xáo danh mục , và 2 chức năng đầu của quản lí sp}
+-- 30p cuối sẽ làm chức năng 3,4,5 của quản lí sp
