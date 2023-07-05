@@ -5,8 +5,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class IOFile<T> {
-    public  static final String CATALOG_PATH = "C:\\Users\\hung1\\OneDrive\\Desktop\\ProjectMD3-PTJV1\\src\\ra\\data\\catalog.txt";
-    public  static final String PRODUCT_PATH = "C:\\Users\\hung1\\OneDrive\\Desktop\\ProjectMD3-PTJV1\\src\\ra\\data\\product.txt";
+    public  static final String CATALOG_PATH = "C:\\Users\\hung1\\OneDrive\\Desktop\\ProjectMD3-PTJV1\\src\\ra\\data\\catalog";
+    public  static final String PRODUCT_PATH = "C:\\Users\\hung1\\OneDrive\\Desktop\\ProjectMD3-PTJV1\\src\\ra\\data\\product";
     public void writeToFile(List<T> list, String path){
         // sử dụng ghi file binary
         try {

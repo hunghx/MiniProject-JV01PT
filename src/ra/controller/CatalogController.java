@@ -15,7 +15,7 @@ public class CatalogController {
         catalogService.save(catalog);
     }
     public Catalog findById(Integer integer) {
-        return catalogService.findById(integer)
+        return catalogService.findById(integer);
     }
     // id tự tăng
     public int getNewId(){
